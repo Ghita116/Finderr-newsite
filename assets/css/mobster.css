@@ -1,9 +1,4 @@
-/**
- * Mobster v1.0.0
- * Copyright 2020 by MACode ID
- * Site: www.macodeid.com
- * License under CC 4.0 ()
- */
+
 
 :root {
   --primary: #3D58F3;
@@ -211,7 +206,7 @@ hr {
 }
 
 .fg-gray {
-  color: #6B6872 !important;
+  color: #09090a !important;
 }
 
 .fg-white {
@@ -2479,8 +2474,8 @@ hr {
 
 .team-avatar {
   display: inline-block;
-  width: 75px;
-  height: 75px;
+  width: 155px;
+  height: 155px;
   border-radius: 50%;
   overflow: hidden;
 }
@@ -2491,7 +2486,7 @@ hr {
 }
 
 .team-name {
-  color: #383340;
+  color: #000000;
   margin-bottom: 0;
 }
 
